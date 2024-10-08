@@ -18,5 +18,6 @@ be used to render new sample ID information.
 ## Function 4:
 Last function optionChanged, is a simple two lines of code where the buildCharts and buildMetadata works based on the users selected sample ID from the dropdown menu.
 
-
+## Contributions:
+I collaborated on this assignment with Nicolas Ortega and Brendan Golden. Also, for assistance building the code I used ChatGPT.
 
