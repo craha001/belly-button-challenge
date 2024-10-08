@@ -4,6 +4,8 @@ who use the dashboard can look at different samples bacteria cultures. The code 
 and the markers are sized by the number of bacteria.  Also on the dashboard is a bar chart showing the top ten bacteria cultures found for each sample and their corresponding OTU ID. OTU stands for operational taxonomic unit. There is also
 an interactive dropdown menu as mentioned before to look at different sample ID's. Lastly, there is a Metadata panel which shows demographic info for each chosen sample from the user.
 
+Each of the functions can be found in the belly-button-challenge folder under the app.js file. 
+
 ## Function 1:
 Using D3.js, the first function called buildMetadata is used to fetch the metadata and filter it out in order to get the necessary data for our charts and dropdown menu.
 
